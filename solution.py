@@ -1,10 +1,3 @@
-#   Look for #IMPLEMENT tags in this file. These tags indicate what has
-#   to be implemented to complete the warehouse domain.
-
-#   You may add only standard python imports---i.e., ones that are automatically
-#   available on TEACH.CS
-#   You may not remove any imports.
-#   You may not import or otherwise source any of your own files
 
 import os #for time functions
 from search import * #for search engines
